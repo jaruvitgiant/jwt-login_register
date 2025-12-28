@@ -14,7 +14,7 @@
 
 1.  **Clone โปรเจกต์:**
     ```bash
-    git clone <your-repository-url>
+    git clone https://github.com/jaruvitgiant/jwt-login_register.git
     cd jwt-project
     ```
 
@@ -87,3 +87,4 @@
 
 ## ⚠️ ความปลอดภัย
 ไฟล์ `.env` จะถูกข้ามโดย `.gitignore` เพื่อความปลอดภัย **ห้ามนำข้อมูลสำคัญขึ้น GitHub เด็ดขาด**
+
